@@ -1,3 +1,3 @@
 # My-data demo 
 first repository
-vaibhav satyrathy
+Vaibhav satyrathy
